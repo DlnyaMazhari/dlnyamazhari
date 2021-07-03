@@ -1,7 +1,5 @@
 ### Hi there, I am Dlnya Mazhari  🙋🏽 
 <br />
-<br />
-
 I am a motivated web developer who is curiously looking forward to find my way into the tech industry.
 
 
