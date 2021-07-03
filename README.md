@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**DlnyaMazhari/dlnyamazhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hello, folks!  🙋🏽‍♀️
+[Linkedin](https://www.linkedin.com/in/dlnya-mazhari-ba091620b/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
