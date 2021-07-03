@@ -19,6 +19,7 @@ I am a motivated web developer who is curiously looking forward to find my way i
 <a href="https://www.linkedin.com/in/dlnya-mazhari-ba091620b/">
   <img align="left" alt="Dlnya-Mazhari LinkdeIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br />
  
  ---
  
