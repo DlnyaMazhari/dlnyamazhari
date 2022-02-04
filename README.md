@@ -5,8 +5,8 @@ I am a motivated web developer who is curiously looking forward to find my way i
 <br />
 
 **Talking about Personal Stuffs:**
-- 🌱 I’m currently learning and strengthening the languages I already know.
-- 👯 I’m looking to collaborate on any kind of projects as it helps with above point 🤓 
+- 🌱 I’m currently learning Power apps, Power BI and Danish language 😉.
+- 👯 I’m looking to collaborate on projects as I am currently doing that to strengthen my coding skills. 🤓 
 - 💬 Ask me about anything, I will also learn  😉 
 - ⚡ Fun fact: There are times when I listen to rock music to sleep 🧘🏽 🤭 
 ---
