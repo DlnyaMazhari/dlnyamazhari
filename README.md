@@ -1,6 +1,6 @@
 ### Hi there, I am Dlnya Mazhari  🙋🏽 
 <br />
-I am a motivated web developer who is curiously looking forward to find my way into the tech industry.
+I am a motivated web developer who currently enjoys working ( and playing 😁 ) in the dream company , LEGO 🤠
 <br />
 <br />
 
