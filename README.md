@@ -5,10 +5,9 @@ I am a motivated web developer who is curiously looking forward to find my way i
 <br />
 
 **Talking about Personal Stuffs:**
-- 🌱 I’m currently learning Power apps, Power BI and Danish language 😉.
-- 👯 I’m looking to collaborate on projects as I am currently doing that to strengthen my coding skills. 🤓 
+- 🌱 I’m currently learning Next.js, Cypress, Typescript and Danish language 😉. 
 - 💬 Ask me about anything, I will also learn  😉 
-- ⚡ Fun fact: There are times when I listen to rock music to sleep 🧘🏽 🤭 
+- ⚡ Fun fact: I think numerology is fun and I observe number orders often 🤭 
 ---
 
 #### Connect with me:
