@@ -16,7 +16,7 @@ I am a motivated web developer who currently enjoys working ( and playing 😁 )
 <br />
 
 <a href="https://www.linkedin.com/in/dlnya-mazhari-ba091620b/">
-  <img align="left" alt="Dlnya-Mazhari LinkdeIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Dlnya-Mazhari LinkdeIN" width="22px" src="https://camo.githubusercontent.com/6a4d8bc7597946d1ffbd7f97691b2e7a556c44c2e268ffaa95897ff54507e441/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" />
 </a>
 <br />
  
